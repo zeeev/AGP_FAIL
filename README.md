@@ -1,8 +1,8 @@
 # AGP_FAIL
 
 # installing
-
-make
+git clone --recursive https://github.com/zeeev/AGP_FAIL.git
+cd AGP_FAIL && make
 
 # running
 
