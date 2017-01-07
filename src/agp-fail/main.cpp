@@ -16,7 +16,7 @@ int main(int argc, char *argv[]){
 
     std::string correctVersion = "##agp-version 2.0";
 
-    possible_errors.push_back("DUMMY: Problem opening AGP.  Stick to Exel.");
+    possible_errors.push_back("DUMMY: Problem opening AGP.  Stick to Excel.");
     possible_errors.push_back("DUMMY: How embarrassing your AGP has too few columns.");
     possible_errors.push_back("DUMMY: No or wrong version.");
     possible_errors.push_back("DUMMY: Try again.");
