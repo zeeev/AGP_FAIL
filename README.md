@@ -1,5 +1,10 @@
 # AGP_FAIL
 
+This code checks that gaps in an AGP file lineup with the scaffolds in a fasta.  If they don't you've got trouble.  
+
+Hateful bug reports are very welcome!
+
+
 # installing
 git clone --recursive https://github.com/zeeev/AGP_FAIL.git
 cd AGP_FAIL && make
